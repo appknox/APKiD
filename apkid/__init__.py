@@ -25,8 +25,8 @@
  requirements will be met.
 """
 
-__title__ = 'apkid'
-__version__ = '2.1.0'
+__title__ = 'ak-apkid'
+__version__ = '2.1.0.post1'
 __author__ = 'Caleb Fenton & Tim Strazzere'
 __license__ = 'GPL & Commercial'
 __copyright__ = 'Copyright (C) 2019 RedNaga'

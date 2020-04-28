@@ -21,7 +21,7 @@ def package_files(directory):
 
 
 install_requires = [
-    'yara-python==3.11.0',
+    'ak-yara-python==3.11.0',
 ]
 
 dev_requires = [
